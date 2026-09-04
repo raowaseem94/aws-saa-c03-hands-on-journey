@@ -46,7 +46,7 @@ I learned how AWS provides scalable virtual servers through Amazon EC2 and pract
 
 | Lab | AWS Services | Description | Status |
 |---|---|---|---|
-|(./labs-01/) | EC2, EBS, IAM | EC2 web server with additional EBS storage and IAM role | ✅ Completed |
+|[Lab-01](./labs-01/) | EC2, EBS, IAM | EC2 web server with additional EBS storage and IAM role | ✅ Completed |
 | Lab 02 – Load Balanced Web App | EC2, ALB | Two EC2 instances behind an Application Load Balancer | 🔄 Next |
 | Lab 03 – Auto Scaling | EC2, ALB, ASG | Highly available and scalable web application | ⏳ Planned |
 | Lab 04 – Shared Storage | EC2, EFS | Multiple EC2 instances using shared storage | ⏳ Planned |
